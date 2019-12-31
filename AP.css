@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    background-color: rgb(216, 53, 58);
+    font-family: 'Kulim Park', sans-serif;
+}
+
+.formulary{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 0;
+    max-width: 28%;
+    transform: translate(-50%, -50%);
+    font-size: medium;
+}
+
+form{
+    padding: 40px;
+    border-radius: 10px;
+    background-color: #EE5A24;
+}
+
+form > h1{
+    text-align: center;
+}
+form > label{
+    display: inline-block;
+    width: 60px;
+}
+
+form > input{
+    margin: 10px;
+    width: 180px;
+    background-color: #F79F1F;
+    padding: 2px;
+    border-radius: 5px;
+    text-align: center;
+}
+form > input::placeholder{
+    text-align: left;
+}
+form > input[type = number]:focus{
+    background-color : white;
+    border-color: red;
+    
+}
+
+form > input[type = button] {
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.438);
+}
+
+#button:hover{
+    background-color: rgba(238, 105, 39, 0.61);
+}
+
+#reset{
+    display: block;
+    width: 180px;
+    margin: 10px auto;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.438);
+}
+
+#reset:hover{
+    background-color: rgba(238, 105, 39, 0.61);
+}
+
+#answer{
+    margin: 20px;
+    text-align: center;
+}

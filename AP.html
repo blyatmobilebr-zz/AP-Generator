@@ -1,0 +1,43 @@
+<!DOCTYPE>
+<html lang="en">
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>AP Generator</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Kulim+Park&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="AP.css">
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <!--creates the container div that the formulary will be in-->
+        <div class="container">
+            <div class="formulary">
+                <form>
+                    <h1>Arithmetic Progression Generator</h1>
+                    <label for="start">Start:</label>
+                    <input type="number" placeholder="Enter the start of the AP" id="start" autofocus><br>
+                    <label for="end">End:</label>
+                    <input type="number" placeholder="Enter the end of the AP" id="end"><br>
+                    <label for="constant">Constant:</label>
+                    <input type="number" placeholder="Enter the constant of the AP" id="constant">
+                    <input type="button" value="Confirm" id="button" onclick="confirm()">
+                    <button value="Reset" id="reset" onclick="reset()">Reset</button>
+                    <div id="answer">
+                        The answer is:
+                    
+                    </div>
+                </form>
+            </div>
+        </div>
+        <!--javscript file of the form-->
+        <script src="AP.js" async defer></script>
+    </body>
+</html>
