@@ -9,7 +9,7 @@ It creates an arithmetic progression of any integer.
 ## Usage
 
 - If you weren't able to enter a value, this will happen:  
-![<https://drive.google.com/open?id=1lQaQ-YgJBpe3aWUG81iIp-T478dtF8G6]>
+![<https://drive.google.com/file/d/1lQaQ-YgJBpe3aWUG81iIp-T478dtF8G6/view?usp=sharing]>
 
 - If **start** is *smaller* than the **end** with *constant* being **greater** than **0**, the arithmetic progression will be **crescent** as shown below:  
 ![<https://drive.google.com/file/d/1VV2DyeftUKRUa4tDKaXnkCkoJ3W_Xzu_/view?usp=sharing]>
@@ -18,10 +18,10 @@ It creates an arithmetic progression of any integer.
 ![<https://drive.google.com/file/d/1YFPFniq63XDIOsT89m5jldK8D_XMSr9J/view?usp=sharing]>
 
 - If all values are the same, this will happen:  
-![<https://drive.google.com/open?id=1bjYzNYYSd-5XhUKXwm8XO4Xw9S65oc0g]>
+![<https://drive.google.com/file/d/1bjYzNYYSd-5XhUKXwm8XO4Xw9S65oc0g/view?usp=sharing]>
 
 - By any time you can **reset** the values by clicking on the **reset** button as shown below:  
-![<https://drive.google.com/open?id=1ubj2B15nGz5mOPcvwItuBwwyTmiLUuII]>
+![<https://drive.google.com/file/d/1ubj2B15nGz5mOPcvwItuBwwyTmiLUuII/view?usp=sharing]>
 
 ## Built With
 
