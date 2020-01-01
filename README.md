@@ -9,22 +9,22 @@ It creates an arithmetic progression of any integer.
 ## Usage
 
 - If you weren't able to enter a value, this will happen:  
-![Imgur](https://i.imgur.com/pmgLqeB.gifv)
+![](https://media.giphy.com/media/H3HbJkg4VskLXSx038/giphy.gif)
 
 - If **start** is *smaller* than the **end** with *constant* being **greater** than **0**, the arithmetic progression will be **crescent** as shown below:  
-![Imgur](https://i.imgur.com/AO6Q3As.gifv)
+![](https://media.giphy.com/media/Y4VNjsnC2CqXKv1suV/giphy.gif)
 
 - If **start** is *greater* than the **end** with **constant** being **greater** than **0**, the arithmetic progression will be **decrescent** as shown below:  
-![Imgur](https://i.imgur.com/uixtZRA.gifv)
+![](https://media.giphy.com/media/Qwss3iWkdbDHcFzGFr/giphy.gif)
 
 - If the **constant** is negative this will happen:
-![Imgur](https://i.imgur.com/uq41Vwl.gifv)
+![](https://media.giphy.com/media/QB578t7aeeZWZGot5z/giphy.gif)
 
 - If all values are the same, this will happen:  
-![Imgur](https://i.imgur.com/uq41Vwl.gifv)
+![](https://media.giphy.com/media/TfoQLenKcYnQ3x5rZw/giphy.gif)
 
 - By any time you can **reset** the values by clicking on the **reset** button as shown below:  
-![Imgur](https://i.imgur.com/Sahi5TL.gifv)
+![](https://media.giphy.com/media/gIlrdZlAV5YnRc4X5q/giphy.gif)
 
 ## Built With
 
