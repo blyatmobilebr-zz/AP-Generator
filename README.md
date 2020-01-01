@@ -27,7 +27,7 @@ It creates an arithmetic progression of any integer.
 
 - [HTML5](https://www.w3schools.com/html/html_intro.asp)
 - [CSS3](https://www.w3schools.com/css/css_intro.asp)
-- [Javscript](https://www.javascript.com/)
+- [Javascript](https://www.javascript.com/)
 
 ## Contributing
 
