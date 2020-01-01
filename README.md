@@ -17,7 +17,7 @@ It creates an arithmetic progression of any integer.
 - If **start** is *greater* than the **end** with **constant** being **greater** than **0**, the arithmetic progression will be **decrescent** as shown below:  
 ![](https://media.giphy.com/media/Qwss3iWkdbDHcFzGFr/giphy.gif)
 
-- If the **constant** is negative this will happen:
+- If the **constant** is negative this will happen:  
 ![](https://media.giphy.com/media/QB578t7aeeZWZGot5z/giphy.gif)
 
 - If all values are the same, this will happen:  
