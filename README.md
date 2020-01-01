@@ -40,7 +40,7 @@ Please make sure to update tests as appropriate.
 
 ## Author
 
-[Lucas Lima](https://github.com/blyatmobilebr)
+- [Lucas Lima](https://github.com/blyatmobilebr)
 
 ## Special Thanks To
 
@@ -49,4 +49,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+- [MIT](https://choosealicense.com/licenses/mit/)
