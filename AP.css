@@ -15,8 +15,8 @@ body{
 }
 
 form{
-    padding: 40px;
-    border-radius: 10px;
+    padding: 10%;
+    border-radius: 10%;
     background-color: #EE5A24;
 }
 
@@ -25,15 +25,15 @@ form > h1{
 }
 form > label{
     display: inline-block;
-    width: 60px;
+    width: 20%;
 }
 
 form > input{
-    margin: 10px;
-    width: 180px;
+    margin: 5%;
+    width: 63%;
     background-color: #F79F1F;
-    padding: 2px;
-    border-radius: 5px;
+    padding: 1%;
+    border-radius: 6%;
     text-align: center;
 }
 form > input::placeholder{
@@ -47,9 +47,9 @@ form > input[type = number]:focus{
 
 form > input[type = button] {
     display: block;
-    margin: 10px auto;
-    padding: 5px;
-    border-radius: 5px;
+    margin: 6% auto;
+    padding: 2%;
+    border-radius: 5%;
     cursor: pointer;
     background-color: rgba(255, 255, 255, 0.438);
 }
@@ -60,10 +60,10 @@ form > input[type = button] {
 
 #reset{
     display: block;
-    width: 180px;
-    margin: 10px auto;
-    padding: 5px;
-    border-radius: 5px;
+    width: 63%;
+    margin: 6% auto;
+    padding: 2%;
+    border-radius: 5%;
     cursor: pointer;
     background-color: rgba(255, 255, 255, 0.438);
 }
@@ -73,6 +73,6 @@ form > input[type = button] {
 }
 
 #answer{
-    margin: 20px;
+    margin: 10%;
     text-align: center;
 }
